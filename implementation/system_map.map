@@ -1,0 +1,1443 @@
+Release 11.5 Map L.70 (lin64)
+Xilinx Map Application Log File for Design 'system'
+
+Design Information
+------------------
+Command Line   : map -ise ../__xps/ise/system.ise -o system_map.ncd -w -pr b -ol
+high -timing -detail system.ngd system.pcf 
+Target Device  : xc5vfx70t
+Target Package : ff1136
+Target Speed   : -1
+Mapper Version : virtex5 -- $Revision: 1.51.18.1 $
+Mapped Date    : Fri Apr  2 15:10:34 2010
+
+WARNING:LIT:243 - Logical network N208 has no load.
+WARNING:LIT:243 - Logical network N209 has no load.
+WARNING:LIT:243 - Logical network N210 has no load.
+WARNING:LIT:243 - Logical network N211 has no load.
+WARNING:LIT:243 - Logical network N212 has no load.
+WARNING:LIT:243 - Logical network N213 has no load.
+WARNING:LIT:243 - Logical network N214 has no load.
+WARNING:LIT:243 - Logical network N215 has no load.
+WARNING:LIT:243 - Logical network N216 has no load.
+WARNING:LIT:243 - Logical network N217 has no load.
+WARNING:LIT:243 - Logical network N218 has no load.
+WARNING:LIT:243 - Logical network N219 has no load.
+WARNING:LIT:243 - Logical network N220 has no load.
+WARNING:LIT:243 - Logical network N221 has no load.
+WARNING:LIT:243 - Logical network N222 has no load.
+WARNING:LIT:243 - Logical network N223 has no load.
+WARNING:LIT:243 - Logical network N224 has no load.
+WARNING:LIT:243 - Logical network N225 has no load.
+WARNING:LIT:243 - Logical network N226 has no load.
+WARNING:LIT:243 - Logical network N227 has no load.
+WARNING:LIT:243 - Logical network N228 has no load.
+WARNING:LIT:243 - Logical network N229 has no load.
+WARNING:LIT:243 - Logical network N230 has no load.
+WARNING:LIT:243 - Logical network N231 has no load.
+WARNING:LIT:243 - Logical network N232 has no load.
+WARNING:LIT:243 - Logical network N233 has no load.
+WARNING:LIT:243 - Logical network N234 has no load.
+WARNING:LIT:243 - Logical network N235 has no load.
+WARNING:LIT:243 - Logical network N236 has no load.
+WARNING:LIT:243 - Logical network N237 has no load.
+WARNING:LIT:243 - Logical network N238 has no load.
+WARNING:LIT:243 - Logical network N239 has no load.
+WARNING:LIT:243 - Logical network N240 has no load.
+WARNING:LIT:243 - Logical network N241 has no load.
+WARNING:LIT:243 - Logical network N242 has no load.
+WARNING:LIT:243 - Logical network N243 has no load.
+WARNING:LIT:243 - Logical network N244 has no load.
+WARNING:LIT:243 - Logical network N245 has no load.
+WARNING:LIT:243 - Logical network N246 has no load.
+WARNING:LIT:243 - Logical network N247 has no load.
+WARNING:LIT:243 - Logical network N248 has no load.
+WARNING:LIT:243 - Logical network N249 has no load.
+WARNING:LIT:243 - Logical network N250 has no load.
+WARNING:LIT:243 - Logical network N251 has no load.
+WARNING:LIT:243 - Logical network N252 has no load.
+WARNING:LIT:243 - Logical network N253 has no load.
+WARNING:LIT:243 - Logical network N254 has no load.
+WARNING:LIT:243 - Logical network N255 has no load.
+WARNING:LIT:243 - Logical network N256 has no load.
+WARNING:LIT:243 - Logical network N257 has no load.
+WARNING:LIT:243 - Logical network N258 has no load.
+WARNING:LIT:243 - Logical network N259 has no load.
+WARNING:LIT:243 - Logical network N260 has no load.
+WARNING:LIT:243 - Logical network N261 has no load.
+WARNING:LIT:243 - Logical network N262 has no load.
+WARNING:LIT:243 - Logical network N263 has no load.
+WARNING:LIT:243 - Logical network N264 has no load.
+WARNING:LIT:243 - Logical network N265 has no load.
+WARNING:LIT:243 - Logical network N266 has no load.
+WARNING:LIT:243 - Logical network N267 has no load.
+WARNING:LIT:243 - Logical network N268 has no load.
+WARNING:LIT:243 - Logical network N269 has no load.
+WARNING:LIT:243 - Logical network N270 has no load.
+WARNING:LIT:243 - Logical network N271 has no load.
+WARNING:LIT:243 - Logical network N280 has no load.
+WARNING:LIT:243 - Logical network N281 has no load.
+WARNING:LIT:243 - Logical network N282 has no load.
+WARNING:LIT:243 - Logical network N283 has no load.
+WARNING:LIT:243 - Logical network N284 has no load.
+WARNING:LIT:243 - Logical network N285 has no load.
+WARNING:LIT:243 - Logical network N286 has no load.
+WARNING:LIT:243 - Logical network N287 has no load.
+WARNING:LIT:243 - Logical network N288 has no load.
+WARNING:LIT:243 - Logical network N289 has no load.
+WARNING:LIT:243 - Logical network N290 has no load.
+WARNING:LIT:243 - Logical network N291 has no load.
+WARNING:LIT:243 - Logical network N292 has no load.
+WARNING:LIT:243 - Logical network N293 has no load.
+WARNING:LIT:243 - Logical network N294 has no load.
+WARNING:LIT:243 - Logical network N295 has no load.
+WARNING:LIT:243 - Logical network
+   fpga_0_SysACE_CompactFlash_SysACE_MPIRQ_pin_IBUF has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<10> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<11> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<12> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<13> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<14> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<15> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<1> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<2> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<30> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<31> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<3> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<4> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<5> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<6> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<7> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<8> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ABus<9> has no load.
+WARNING:LIT:243 - Logical network ilmb_LMB_ReadStrobe has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MBusy<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MBusy<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MBusy<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MIRQ<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MIRQ<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MIRQ<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdBTerm<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdBTerm<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<100> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<101> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<102> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<103> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<110> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<111> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<118> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<119> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<126> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<127> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<160> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<161> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<162> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdDBus<163> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdErr<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdErr<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdWdAddr<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdWdAddr<10> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdWdAddr<11> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRdWdAddr<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRearbitrate<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRearbitrate<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MRearbitrate<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MSSize<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MSSize<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MSSize<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MSSize<3> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MWrBTerm<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MWrBTerm<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MWrErr<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_MWrErr<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<10> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<11> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<12> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<13> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<14> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<15> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<3> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<4> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<5> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<6> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<7> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<8> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_TAttribute<9> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<10> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<11> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<12> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<13> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<14> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<15> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<16> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<17> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<18> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<19> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<20> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<21> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<22> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<23> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<24> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<25> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<26> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<27> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<28> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<29> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<2> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<30> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<31> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<3> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<4> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<5> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<6> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<7> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<8> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_UABus<9> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_lockErr has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_rdPendPri<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_rdPendPri<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_rdPendReq has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_rdPrim<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_wrPendPri<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_wrPendPri<1> has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_wrPendReq has no load.
+WARNING:LIT:243 - Logical network mb_plb_PLB_wrPrim<0> has no load.
+WARNING:LIT:243 - Logical network xps_tft_0_TFT_IIC_SCL_I has no load.
+WARNING:LIT:243 - Logical network xps_tft_0_TFT_IIC_SDA_I has no load.
+WARNING:LIT:243 - Logical network microblaze_0/microblaze_0/Trace_Data_Write has
+   no load.
+WARNING:LIT:243 - Logical network microblaze_0/microblaze_0/Trace_Data_Access
+   has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/Trace_WB_Jump_Taken has no
+   load.
+WARNING:LIT:243 - Logical network microblaze_0/microblaze_0/Trace_Data_Read has
+   no load.
+WARNING:LIT:243 - Logical network microblaze_0/Trace_Valid_Instr has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<0> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<1> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<2> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<3> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<4> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<5> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<6> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<7> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<8> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<9> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<10> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<11> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<12> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<13> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<14> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<15> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<16> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<17> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<18> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<19> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<20> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<21> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<22> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<23> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<24> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<25> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<26> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<27> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<28> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<29> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<30> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Write_Value<31> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Byte_Enable<0> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Byte_Enable<1> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Byte_Enable<2> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Byte_Enable<3> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<24> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<25> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<26> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<27> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<28> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<29> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<30> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/wb_pid_i<31> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<0> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<1> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<2> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<3> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<4> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<5> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<6> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<7> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<8> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<9> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<10> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<11> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<12> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<13> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<14> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<15> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<16> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<17> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<18> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<19> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<20> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<21> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<22> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<23> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<24> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<25> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<26> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<27> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<28> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<29> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<30> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/wb_instr<31> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<0> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<1> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<2> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<3> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<4> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<5> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<6> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<7> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<8> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<9> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<10> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<11> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<12> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<13> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<14> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<15> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<16> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<17> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<18> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<19> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<20> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<21> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<22> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<23> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<24> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<25> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<26> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<27> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<28> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<29> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<30> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Trace_Data_Address<31> has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Data_Flow_I/exception_registers_I1/FPGA
+   _Target.Gen_Ret_Addr[0].MUXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Data_Flow_I/Shift_Logic_Module_I/Use_PC
+   MP_instr.Using_FPGA_PCMP.carry_equal_byte1/MUXCY_L_Enable_2/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Data_Flow_I/Shift_Logic_Module_I/Use_PC
+   MP_instr.Using_FPGA_PCMP.carry_equal_byte2/MUXCY_L_Enable_2/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Data_Flow_I/Shift_Logic_Module_I/Use_PC
+   MP_instr.Using_FPGA_PCMP.carry_equal_byte3/MUXCY_L_Enable_2/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Data_Flow_I/Shift_Logic_Module_I/Use_PC
+   MP_instr.Using_FPGA_PCMP.carry_equal_byte4/MUXCY_L_Enable_2/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/Use_MuxCy[10].OF_Piperun_Stage
+   /Using_FPGA.MUXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.Decode_I/PC_Module_I/Using_FPGA.Incr_PC
+   [0].MUXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.DTLB_I/Mram_TLBLO54/SP
+   O has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.DTLB_I/Mram_TLBLO53/SP
+   O has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.DTLB_I/Mram_TLBLO52/SP
+   O has no load.
+WARNING:LIT:243 - Logical network
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.DTLB_I/Mram_TLBLO51/SP
+   O has no load.
+WARNING:LIT:243 - Logical network mb_plb/Bus_Error_Det has no load.
+WARNING:LIT:243 - Logical network mb_plb/MPLB_Rst<0> has no load.
+WARNING:LIT:243 - Logical network mb_plb/MPLB_Rst<1> has no load.
+WARNING:LIT:243 - Logical network
+   RS232_Uart_1/RS232_Uart_1/UARTLITE_CORE_I/UARTLITE_TX_I/SRL_FIFO_I/I_SRL_FIFO
+   _RBU_F/CNTR_INCR_DECR_ADDN_F_I/STRUCTURAL_A_GEN.Addr_Counters[4].MUXCY_L_I/LO
+   has no load.
+WARNING:LIT:243 - Logical network
+   RS232_Uart_1/RS232_Uart_1/UARTLITE_CORE_I/UARTLITE_RX_I/SRL_FIFO_I/I_SRL_FIFO
+   _RBU_F/CNTR_INCR_DECR_ADDN_F_I/STRUCTURAL_A_GEN.Addr_Counters[4].MUXCY_L_I/LO
+   has no load.
+WARNING:LIT:243 - Logical network
+   IIC_EEPROM/IIC_EEPROM/X_IIC/WRITE_FIFO_CTRL_I/Addr_Counters[3].MUXCY_L_I/LO
+   has no load.
+WARNING:LIT:243 - Logical network
+   IIC_EEPROM/IIC_EEPROM/X_IIC/WRITE_FIFO_I/Addr_Counters[3].MUXCY_L_I/LO has no
+   load.
+WARNING:LIT:243 - Logical network
+   IIC_EEPROM/IIC_EEPROM/X_IIC/READ_FIFO_I/Addr_Counters[3].MUXCY_L_I/LO has no
+   load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/XPS_IPIF_I/PLBV46_BURST_I/I_SLAVE_ATTACHMEN
+   T/GEN_WRITE_BUFFER.WR_DATA_BUFFER/GEN_STRUCTURAL.C_DEPTH_LT_17.Addr_Counters[
+   3].MUXCY_L_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/XPS_IPIF_I/PLBV46_BURST_I/I_SLAVE_ATTACHMEN
+   T/I_BURST_SUPPORT/RESPONSE_DBEAT_CNTR_I/STRUCTURAL_A_GEN.I_ADDSUB_GEN[6].MUXC
+   Y_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/XPS_IPIF_I/PLBV46_BURST_I/I_SLAVE_ATTACHMEN
+   T/I_BURST_SUPPORT/CONTROL_DBEAT_CNTR_I/STRUCTURAL_A_GEN.I_ADDSUB_GEN[6].MUXCY
+   _I/LO has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/rd_ack
+   has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/dout<1>
+   has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/BU123/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/BU126/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/BU230/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/TX/INST_TX_INTRFCE/I_TX_FIFO/BU233/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/RX/INST_RX_INTRFCE/I_RX_FIFO/BU123/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/RX/INST_RX_INTRFCE/I_RX_FIFO/BU126/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/RX/INST_RX_INTRFCE/I_RX_FIFO/BU230/L
+   O has no load.
+WARNING:LIT:243 - Logical network
+   Ethernet_MAC/Ethernet_MAC/XEMAC_I/EMAC_I/RX/INST_RX_INTRFCE/I_RX_FIFO/BU233/L
+   O has no load.
+WARNING:LIT:243 - Logical network DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/InitDone has
+   no load.
+WARNING:LIT:243 - Logical network DDR2_SDRAM/MPMC_Idelayctrl_Rdy_O has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<7>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<6>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<5>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<4>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<3>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<2>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<1>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_data_path_0/gen_read_fifos[0
+   ].gen_fifos.mpmc_read_fifo_0/gen_fifos_bram.mpmc_bram_fifo_0/PopParity_r<0>
+   has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/PLB_0_INST.plbv46_pim_0/comp_plbv46_pim/GENERATE_PLB_PL
+   BV46_PIM.PIM_READ_MODULE/I_SRL_FIFO_BUF/I_SRL_FIFO_RBU_F/CNTR_INCR_DECR_ADDN_
+   F_I/STRUCTURAL_A_GEN.Addr_Counters[4].MUXCY_L_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/ctrl_path_0/inst
+   antiate_SRLs[6].mpmc_srl_delay_ctrl_bram_out/gen_delay_2plus.SRL16_0/Q has no
+   load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[0].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[1].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[2].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[3].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[4].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[5].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[6].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_repl
+   icate_ctrl_dp_wrfifo_whichport[7].instantiate_ctrl_dp_wrfifo_whichport[0].mpm
+   c_srl_delay_Ctrl_DP_WrFIFO_WhichPort/gen_delay_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_paths.mpmc_ctrl_path_0/instantiate_ctrl
+   _dp_rdfifo_whichport_srls[0].mpmc_srl_delay_Ctrl_DP_RdFIFO_WhichPort/gen_dela
+   y_2plus.SRL16_0/Q has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_rnw_reg has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_rpn_reg has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_ce_reg<0> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_qwen_reg<0> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_qwen_reg<1> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_ben_reg<0> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_ben_reg<1> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<0> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<1> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<2> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<3> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<4> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<5> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/EMC_CTRL_I/IO_REGISTERS_I/mem_a_reg<6> has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/MCH_PLB_IPIF_I/NO_CHNL_IF_GEN.PLBV46_SLAVE_BURST_I/I_SLAVE_ATTACH
+   MENT/GEN_WRITE_BUFFER.WR_DATA_BUFFER/GEN_STRUCTURAL.C_DEPTH_LT_17.Addr_Counte
+   rs[3].MUXCY_L_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/MCH_PLB_IPIF_I/NO_CHNL_IF_GEN.PLBV46_SLAVE_BURST_I/I_SLAVE_ATTACH
+   MENT/I_BURST_SUPPORT/RESPONSE_DBEAT_CNTR_I/STRUCTURAL_A_GEN.I_ADDSUB_GEN[6].M
+   UXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   FLASH/FLASH/MCH_PLB_IPIF_I/NO_CHNL_IF_GEN.PLBV46_SLAVE_BURST_I/I_SLAVE_ATTACH
+   MENT/I_BURST_SUPPORT/CONTROL_DBEAT_CNTR_I/STRUCTURAL_A_GEN.I_ADDSUB_GEN[6].MU
+   XCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   xps_timer_0/xps_timer_0/TC_CORE_I/GEN_SECOND_TIMER.COUNTER_1_I/COUNTER_I/STRU
+   CTURAL_A_GEN.I_ADDSUB_GEN[32].MUXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network
+   xps_timer_0/xps_timer_0/TC_CORE_I/COUNTER_0_I/COUNTER_I/STRUCTURAL_A_GEN.I_AD
+   DSUB_GEN[32].MUXCY_I/LO has no load.
+WARNING:LIT:243 - Logical network mdm_0/Interrupt has no load.
+WARNING:LIT:243 - Logical network mdm_0/Ext_JTAG_RESET has no load.
+WARNING:LIT:243 - Logical network mdm_0/Ext_JTAG_SEL has no load.
+WARNING:LIT:243 - Logical network mdm_0/bscan_drck1 has no load.
+WARNING:LIT:243 - Logical network
+   proc_sys_reset_0/proc_sys_reset_0/RstcPPCresetsys_0 has no load.
+WARNING:LIT:243 - Logical network
+   proc_sys_reset_0/proc_sys_reset_0/RstcPPCresetchip_0 has no load.
+WARNING:LIT:243 - Logical network
+   proc_sys_reset_0/proc_sys_reset_0/RstcPPCresetcore_0 has no load.
+WARNING:LIT:243 - Logical network
+   proc_sys_reset_0/proc_sys_reset_0/RstcPPCresetcore_1 has no load.
+WARNING:LIT:243 - Logical network xps_tft_0/MD_error has no load.
+Mapping design into LUTs...
+WARNING:MapLib:701 - Signal fpga_0_SysACE_CompactFlash_SysACE_MPIRQ_pin
+   connected to top level port fpga_0_SysACE_CompactFlash_SysACE_MPIRQ_pin has
+   been removed.
+WARNING:MapLib:701 - Signal fpga_0_Ethernet_MAC_PHY_col_pin connected to top
+   level port fpga_0_Ethernet_MAC_PHY_col_pin has been removed.
+Writing file system_map.ngm...
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_0
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_0_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_0
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_0_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_0
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_0_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_0
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_0_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_1
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_1_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_1
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_1_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_1
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_1_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_1
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_1_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_10
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_10_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_10
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_10_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_10
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_10_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_10
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_10_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_11
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_11_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_11
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_11_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_11
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_11_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_11
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_11_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_12
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_12_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_12
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_12_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_12
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_12_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_12
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_12_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_13
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_13_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_13
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_13_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_13
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_13_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_13
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_13_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_14
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_14_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_14
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_14_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_14
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_14_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_14
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_14_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_15
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_15_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_15
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_15_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_15
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_15_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_15
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_15_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_2
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_2_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_2
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_2_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_2
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_2_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_2
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_2_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_3
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_3_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_3
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_3_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_3
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_3_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_3
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_3_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_4
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_4_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_4
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_4_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_4
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_4_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_4
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_4_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_5
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_5_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_5
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_5_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_5
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_5_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_5
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_5_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_6
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_6_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_6
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_6_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_6
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_6_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_6
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_6_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_7
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_7_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_7
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_7_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_7
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_7_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_7
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_7_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_8
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_8_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_8
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_8_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_8
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_8_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_8
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_8_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_9
+   of frag REGCLKAU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_9_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_9
+   of frag REGCLKAL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_9_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_9
+   of frag REGCLKBU connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_9_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   lmb_bram/lmb_bram/ramb36_9
+   of frag REGCLKBL connected to power/ground net
+   lmb_bram/lmb_bram/ramb36_9_REGCLKBL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM
+   of frag REGCLKAU connected to power/ground net
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM_REGCLKAU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM
+   of frag REGCLKAL connected to power/ground net
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM_REGCLKAL_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM
+   of frag REGCLKBU connected to power/ground net
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM_REGCLKBU_tiesig
+WARNING:Pack:2874 - Trimming timing constraints from pin
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM
+   of frag REGCLKBL connected to power/ground net
+   microblaze_0/microblaze_0/Performance.MMU_I/Using_TLBS.UTLB_I/MMU_UTLB_RAM_I/
+   Mram_RAM_REGCLKBL_tiesig
+Running directed packing...
+WARNING:Pack:2515 - The LUT-1 inverter
+   "xps_tft_0/xps_tft_0/TFT_CTRL_I/VSYNC_U3/Clk_stb_inv1_INV_0" failed to join
+   the OLOGIC comp matched to output buffer "xps_tft_0_TFT_HSYNC_pin_OBUF". 
+   This may result in suboptimal timing.  The LUT-1 inverter
+   xps_tft_0/xps_tft_0/TFT_CTRL_I/VSYNC_U3/Clk_stb_inv1_INV_0 drives multiple
+   loads.
+Running delay-based LUT packing...
+Updating timing models...
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+Running timing-driven placement...
+Total REAL time at the beginning of Placer: 1 mins 7 secs 
+Total CPU  time at the beginning of Placer: 1 mins 7 secs 
+
+Phase 1.1  Initial Placement Analysis
+Phase 1.1  Initial Placement Analysis (Checksum:bde888ef) REAL time: 1 mins 14 secs 
+
+Phase 2.7  Design Feasibility Check
+WARNING:Place:838 - An IO Bus with more than one IO standard is found.
+   Components associated with this bus are as follows: 
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<7>   IOSTANDARD = LVCMOS25
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<6>   IOSTANDARD = LVCMOS25
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<5>   IOSTANDARD = LVCMOS25
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<4>   IOSTANDARD = LVCMOS18
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<3>   IOSTANDARD = LVCMOS25
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<2>   IOSTANDARD = LVCMOS18
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<1>   IOSTANDARD = LVCMOS18
+   	 Comp: fpga_0_LEDs_8Bit_GPIO_IO_pin<0>   IOSTANDARD = LVCMOS18
+
+
+Phase 2.7  Design Feasibility Check (Checksum:bde888ef) REAL time: 1 mins 15 secs 
+
+Phase 3.31  Local Placement Optimization
+Phase 3.31  Local Placement Optimization (Checksum:2ef218d7) REAL time: 1 mins 15 secs 
+
+Phase 4.37  Local Placement Optimization
+Phase 4.37  Local Placement Optimization (Checksum:e9c7a172) REAL time: 1 mins 15 secs 
+
+Phase 5.33  Local Placement Optimization
+Phase 5.33  Local Placement Optimization (Checksum:e9c7a172) REAL time: 2 mins 11 secs 
+
+Phase 6.32  Local Placement Optimization
+Phase 6.32  Local Placement Optimization (Checksum:e9c7a172) REAL time: 2 mins 12 secs 
+
+Phase 7.2  Initial Clock and IO Placement
+
+
+
+There are 16 clock regions on the target FPGA device:
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y7:                        | CLOCKREGION_X1Y7:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 0 in use      |   4 edge BUFIOs available, 0 in use      |
+|   4 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y6:                        | CLOCKREGION_X1Y6:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 3 in use      |   4 edge BUFIOs available, 0 in use      |
+|   0 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y5:                        | CLOCKREGION_X1Y5:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 0 in use      |   4 edge BUFIOs available, 0 in use      |
+|   2 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y4:                        | CLOCKREGION_X1Y4:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 0 in use      |   4 edge BUFIOs available, 0 in use      |
+|   2 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y3:                        | CLOCKREGION_X1Y3:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 0 in use      |   4 edge BUFIOs available, 0 in use      |
+|   2 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y2:                        | CLOCKREGION_X1Y2:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 3 in use      |   4 edge BUFIOs available, 0 in use      |
+|   2 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y1:                        | CLOCKREGION_X1Y1:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 2 in use      |   4 edge BUFIOs available, 0 in use      |
+|   0 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+| CLOCKREGION_X0Y0:                        | CLOCKREGION_X1Y0:                        |
+|   2 BUFRs available, 0 in use            |   2 BUFRs available, 0 in use            |
+|   4 Regional Clock Spines, 0 in use      |   4 Regional Clock Spines, 0 in use      |
+|   4 edge BUFIOs available, 0 in use      |   4 edge BUFIOs available, 0 in use      |
+|   4 center BUFIOs available, 0 in use    |                                          |
+|                                          |                                          |
+|------------------------------------------|------------------------------------------|
+
+
+Clock-Region: <CLOCKREGION_X0Y1>
+  key resource utilizations (used/available): edge-bufios - 2/4; bufrs - 0/2; regional-clock-spines - 0/4
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------
+|       |    clock    | BRAM |     |    |        |        |       |       |       |      |      |     |      |
+|       |    region   | FIFO | DCM | GT | ILOGIC | OLOGIC |   FF  |  LUTM |  LUTL | MULT | EMAC | PPC | PCIe | <- (Types of Resources in Clock Region)
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Upper Region|  24  |  2  |  0 |   60   |   60   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the upper region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       |CurrentRegion|  24  |  4  |  0 |   40   |   40   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the current region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Lower Region|  24  |  0  |  0 |   80   |   80   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the lower region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| clock |    region   |                                                                                      -----------------------------------------------
+|  type |  expansion  |                                                                                      | <IO/Regional clock Net Name>
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+
+
+Clock-Region: <CLOCKREGION_X0Y2>
+  key resource utilizations (used/available): edge-bufios - 3/4; center-bufios - 0/2; bufrs - 0/2; regional-clock-spines - 0/4
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------
+|       |    clock    | BRAM |     |    |        |        |       |       |       |      |      |     |      |
+|       |    region   | FIFO | DCM | GT | ILOGIC | OLOGIC |   FF  |  LUTM |  LUTL | MULT | EMAC | PPC | PCIe | <- (Types of Resources in Clock Region)
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Upper Region|   8  |  0  |  0 |   60   |   60   |  1280 |   640 |  1920 |   0  |   0  |  1  |   0  | <- Available resources in the upper region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       |CurrentRegion|  24  |  2  |  0 |   60   |   60   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the current region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Lower Region|  24  |  4  |  0 |   40   |   40   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the lower region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| clock |    region   |                                                                                      -----------------------------------------------
+|  type |  expansion  |                                                                                      | <IO/Regional clock Net Name>
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+
+
+Clock-Region: <CLOCKREGION_X0Y6>
+  key resource utilizations (used/available): edge-bufios - 3/4; bufrs - 0/2; regional-clock-spines - 0/4
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------
+|       |    clock    | BRAM |     |    |        |        |       |       |       |      |      |     |      |
+|       |    region   | FIFO | DCM | GT | ILOGIC | OLOGIC |   FF  |  LUTM |  LUTL | MULT | EMAC | PPC | PCIe | <- (Types of Resources in Clock Region)
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Upper Region|  24  |  0  |  0 |   80   |   80   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the upper region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       |CurrentRegion|  24  |  4  |  0 |   40   |   40   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the current region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+|       | Lower Region|  24  |  2  |  0 |   60   |   60   |  3200 |  1600 |  4800 |   0  |   0  |  0  |   0  | <- Available resources in the lower region
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| clock |    region   |                                                                                      -----------------------------------------------
+|  type |  expansion  |                                                                                      | <IO/Regional clock Net Name>
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+| BUFIO |             |   0  |  0  |  0 |    9   |    0   |     0 |     0 |     0 |   0  |   0  |  0  |   0  | "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>"
+|-------|-------------|------|-----|----|--------|--------|-------|-------|-------|------|------|-----|------|----------------------------------------------
+
+
+
+
+######################################################################################
+# REGIONAL CLOCKING RESOURCE DISTRIBUTION UCF REPORT:
+#
+# Number of Regional Clocking Regions in the device: 16  (4 clock spines in each)
+# Number of Regional Clock Networks used in this design: 8 (each network can be
+# composed of up to 3 clock spines and cover up to 3 regional clock regions)
+# 
+######################################################################################
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" driven by
+"BUFIO_X0Y27"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[7].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y27" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<7>" RANGE =
+CLOCKREGION_X0Y6;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" driven by
+"BUFIO_X0Y9"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[0].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y9" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<0>" RANGE =
+CLOCKREGION_X0Y2;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" driven by
+"BUFIO_X0Y11"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[4].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y11" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<4>" RANGE =
+CLOCKREGION_X0Y2;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" driven by
+"BUFIO_X0Y4"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[1].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y4" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<1>" RANGE =
+CLOCKREGION_X0Y1;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" driven by
+"BUFIO_X0Y25"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[5].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y25" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<5>" RANGE =
+CLOCKREGION_X0Y6;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" driven by
+"BUFIO_X0Y7"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[2].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y7" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<2>" RANGE =
+CLOCKREGION_X0Y1;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" driven by
+"BUFIO_X0Y26"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[6].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y26" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<6>" RANGE =
+CLOCKREGION_X0Y6;
+
+
+# IO-Clock "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" driven by
+"BUFIO_X0Y10"
+INST "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[3].u_iob_dqs/u_bufio_dqs" LOC =
+"BUFIO_X0Y10" ;
+NET "DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" TNM_NET =
+"TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" ;
+TIMEGRP "TN_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" AREA_GROUP =
+"CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" ;
+AREA_GROUP "CLKAG_DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/delayed_dqs<3>" RANGE =
+CLOCKREGION_X0Y2;
+
+
+Phase 7.2  Initial Clock and IO Placement (Checksum:2f0a72db) REAL time: 2 mins 18 secs 
+
+Phase 8.36  Local Placement Optimization
+Phase 8.36  Local Placement Optimization (Checksum:2f0a72db) REAL time: 2 mins 18 secs 
+
+Phase 9.30  Global Clock Region Assignment
+Phase 9.30  Global Clock Region Assignment (Checksum:2f0a72db) REAL time: 2 mins 18 secs 
+
+Phase 10.3  Local Placement Optimization
+Phase 10.3  Local Placement Optimization (Checksum:2f0a72db) REAL time: 2 mins 18 secs 
+
+Phase 11.5  Local Placement Optimization
+Phase 11.5  Local Placement Optimization (Checksum:2f0a72db) REAL time: 2 mins 19 secs 
+
+Phase 12.8  Global Placement
+..............................
+....................................................................................................
+..................................................................
+.............................................................................................................................................................
+.............................................................................................
+...........................................................................................................
+.......................
+....................
+Phase 12.8  Global Placement (Checksum:cc7a7337) REAL time: 5 mins 14 secs 
+
+Phase 13.29  Local Placement Optimization
+Phase 13.29  Local Placement Optimization (Checksum:cc7a7337) REAL time: 5 mins 14 secs 
+
+Phase 14.5  Local Placement Optimization
+Phase 14.5  Local Placement Optimization (Checksum:cc7a7337) REAL time: 5 mins 16 secs 
+
+Phase 15.18  Placement Optimization
+Phase 15.18  Placement Optimization (Checksum:b4f05c1b) REAL time: 7 mins 7 secs 
+
+Phase 16.5  Local Placement Optimization
+Phase 16.5  Local Placement Optimization (Checksum:b4f05c1b) REAL time: 7 mins 9 secs 
+
+Phase 17.34  Placement Validation
+Phase 17.34  Placement Validation (Checksum:b4f05c1b) REAL time: 7 mins 9 secs 
+
+Total REAL time to Placer completion: 7 mins 11 secs 
+Total CPU  time to Placer completion: 7 mins 11 secs 
+Running post-placement packing...
+Writing output files...
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<14>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<12>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<11>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<10>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<9>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<30>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<7>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<6>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<15>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<13>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<8>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<4>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<1>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<31>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<5>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<2>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:367 - The signal <ilmb_LMB_ABus<3>> is incomplete. The signal does not drive any load pins in
+   the design.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[1].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[1].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[4].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[4].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[7].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[7].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[2].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[2].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[5].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[5].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[0].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[0].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[3].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[3].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+WARNING:PhysDesignRules:1269 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[6].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The Q1 output pin of IFF is not used.
+WARNING:PhysDesignRules:1273 - Dangling pins on
+   block:<DDR2_SDRAM/DDR2_SDRAM/mpmc_core_0/gen_v5_ddr2_phy.mpmc_phy_if_0/u_phy_io_0/gen_dqs[6].u_iob_dqs/u_iddr_dq_ce>:
+   <ILOGIC_IFF>.  The SR pin is used for the IFF Flip-flop but the SRVAL_Q1 set/reset value is not configured.
+
+Design Summary
+--------------
+
+Design Summary:
+Number of errors:      0
+Number of warnings:  496
+Slice Logic Utilization:
+  Number of Slice Registers:                 9,771 out of  44,800   21%
+    Number used as Flip Flops:               9,770
+    Number used as Latch-thrus:                  1
+  Number of Slice LUTs:                      8,908 out of  44,800   19%
+    Number used as logic:                    8,460 out of  44,800   18%
+      Number using O6 output only:           7,675
+      Number using O5 output only:             370
+      Number using O5 and O6:                  415
+    Number used as Memory:                     382 out of  13,120    2%
+      Number used as Dual Port RAM:            100
+        Number using O6 output only:             8
+        Number using O5 output only:             3
+        Number using O5 and O6:                 89
+      Number used as Single Port RAM:            4
+        Number using O6 output only:             4
+      Number used as Shift Register:           278
+        Number using O6 output only:           277
+        Number using O5 output only:             1
+    Number used as exclusive route-thru:        66
+  Number of route-thrus:                       453
+    Number using O6 output only:               428
+    Number using O5 output only:                18
+    Number using O5 and O6:                      7
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 5,359 out of  11,200   47%
+  Number of LUT Flip Flop pairs used:       13,531
+    Number with an unused Flip Flop:         3,760 out of  13,531   27%
+    Number with an unused LUT:               4,623 out of  13,531   34%
+    Number of fully used LUT-FF pairs:       5,148 out of  13,531   38%
+    Number of unique control sets:           1,121
+    Number of slice register sites lost
+      to control set restrictions:           2,519 out of  44,800    5%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+  OVERMAPPING of BRAM resources should be ignored if the design is
+  over-mapped for a non-BRAM resource or if placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                       259 out of     640   40%
+    Number of LOCed IOBs:                      259 out of     259  100%
+    IOB Flip Flops:                            474
+
+Specific Feature Utilization:
+  Number of BlockRAM/FIFO:                      29 out of     148   19%
+    Number using BlockRAM only:                 29
+    Total primitives used:
+      Number of 36k BlockRAM used:              29
+    Total Memory used (KB):                  1,044 out of   5,328   19%
+  Number of BUFG/BUFGCTRLs:                      8 out of      32   25%
+    Number used as BUFGs:                        8
+  Number of IDELAYCTRLs:                         3 out of      22   13%
+  Number of BSCANs:                              1 out of       4   25%
+  Number of BUFIOs:                              8 out of      80   10%
+  Number of DSP48Es:                             3 out of     128    2%
+  Number of PLL_ADVs:                            1 out of       6   16%
+
+Average Fanout of Non-Clock Nets:                3.69
+
+Peak Memory Usage:  1159 MB
+Total REAL time to MAP completion:  7 mins 32 secs 
+Total CPU time to MAP completion:   7 mins 31 secs 
+
+Mapping completed.
+See MAP report file "system_map.mrp" for details.
